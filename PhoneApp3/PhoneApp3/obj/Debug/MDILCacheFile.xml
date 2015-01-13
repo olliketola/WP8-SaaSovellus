@@ -1,0 +1,13 @@
+﻿<xapCache source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="15-Nov-14 10:06:31 PM">
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll" archivePath="PhoneApp3.dll" lastWriteTime="15-Nov-14 10:06:30 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="14-Nov-14 4:20:01 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="14-Nov-14 4:20:01 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="14-Nov-14 4:20:01 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="14-Nov-14 4:20:01 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="14-Nov-14 4:20:01 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="15-Nov-14 9:46:57 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="14-Nov-14 4:20:01 PM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="14-Nov-14 4:20:01 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="02-Jan-13 3:57:00 AM" />
+  <file source="C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="14-Nov-14 5:23:23 PM" />
+</xapCache>

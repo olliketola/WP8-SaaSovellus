@@ -1,0 +1,87 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:PhoneApp3"
+    x:Class="PhoneApp3.MainPage"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <phone:Pivot Title="SÄÄSOVELLUS" x:Name="pivot">
+
+            <!--1 page-->
+            <phone:PivotItem Header="" x:Name="h1">
+                <Grid x:Name="ContentPanel" Grid.Row="1" Margin="10,0,0,0">
+                    <TextBlock x:Name="t1" Text="{Binding paikka}" HorizontalAlignment="Left" Margin="7,3,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="120" Width="436" FontSize="30"/>
+                    <TextBlock x:Name="t2" Text="{Binding lampo}" TextWrapping="Wrap" RenderTransformOrigin="-2.728,-1.427" Margin="180,128,30,315" FontSize="80" TextAlignment="Center"/>
+                    <TextBlock x:Name="t3" Text="{Binding tuuli}" TextWrapping="Wrap" RenderTransformOrigin="-2.728,-1.427" Margin="21,346,30,210" FontSize="36"/>
+                    <TextBlock x:Name="t4" Text="{Binding ikosteus}" TextWrapping="Wrap" RenderTransformOrigin="-2.728,-1.427" Margin="21,393,30,164" FontSize="36"/>
+                    <TextBlock x:Name="t5" Text="{Binding anousu}" TextWrapping="Wrap" RenderTransformOrigin="-2.728,-1.427" Margin="21,439,30,117" FontSize="36"/>
+                    <TextBlock x:Name="t6" Text="{Binding alasku}" TextWrapping="Wrap" RenderTransformOrigin="-2.728,-1.427" Margin="21,491,30,65" FontSize="36"/>
+                    <Image x:Name="img1" HorizontalAlignment="Left" Height="160" Margin="21,128,0,0" VerticalAlignment="Top" Width="159"/>
+                    <ProgressBar  x:Name="lataus"  HorizontalAlignment="Left" Height="43" VerticalAlignment="Top" Width="436" Margin="10,207,0,0"  IsIndeterminate="True" Value="-1" />
+                    <TextBlock x:Name="LatausTeksti" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Haetaan tietoja" VerticalAlignment="Top" Margin="152,250,0,0"/>
+
+                </Grid>
+            </phone:PivotItem>
+
+            <!--2 page-->
+            <phone:PivotItem Header="Tämä päivä">
+                <Grid x:Name="ContentPane2" Grid.Row="1" Margin="12,0,12,0">
+                    <ListBox Margin="0,-4,0,-3" x:Name="lstDemo2" Height="610" VerticalAlignment="Bottom">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="{Binding kuva}" Width="100" Height="100" />
+                                    <StackPanel>
+                                        <TextBlock x:Name="tb3" Text="{Binding time}" Margin="20" FontSize="30" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                                    </StackPanel>
+                                    <StackPanel>
+                                        <TextBlock x:Name="tb4" Text="{Binding temp}" Margin="20" FontSize="30"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                        
+                    </ListBox>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--3 page-->
+            <phone:PivotItem Header="Tämä viikko">
+                <Grid x:Name="ContentPane3" Grid.Row="1" Margin="12,0,12,0">
+                
+                    <ListBox Margin="0,-4,0,-3" x:Name="lstDemo" Height="610" VerticalAlignment="Bottom">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="{Binding kuva}" Width="100" Height="100" />
+                                    <TextBlock x:Name="tb1" Text="{Binding pvm}" Margin="20" FontSize="30" />
+                                    <TextBlock x:Name="tb2" Text="{Binding temp}" Margin="20" FontSize="30"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--HAKU-->
+            <phone:PivotItem Header="Haku" Margin="24,10,0,18">
+                <Grid x:Name="ContentPanel3" Grid.Row="1" Margin="0,0,24,0">
+                    <Button x:Name="HakuNappi" Content="Hae paikkakunnan perusteella" HorizontalAlignment="Left" Margin="20,82,0,0" VerticalAlignment="Top" Width="412" Click="Button_Click1"/>
+                    <TextBox x:Name="tb1" HorizontalAlignment="Left" Height="72" Margin="20,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="412"/>
+                </Grid>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+</phone:PhoneApplicationPage>

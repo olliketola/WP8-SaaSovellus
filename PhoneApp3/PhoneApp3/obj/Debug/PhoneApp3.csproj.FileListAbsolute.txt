@@ -1,0 +1,110 @@
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.dll
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\App.g.cs
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\MainPage.g.cs
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.pdb
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\XapCacheFile.xml
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csprojResolveAssemblyReference.cache
+C:\Users\olli\Desktop\PhoneApp3\PhoneApp3\obj\Debug\Page1.g.cs
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.dll
+E:\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+E:\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+E:\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+E:\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csprojResolveAssemblyReference.cache
+E:\PhoneApp3\PhoneApp3\obj\Debug\App.g.cs
+E:\PhoneApp3\PhoneApp3\obj\Debug\MainPage.g.cs
+E:\PhoneApp3\PhoneApp3\obj\Debug\Page1.g.cs
+E:\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+E:\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+E:\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+E:\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll
+E:\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.pdb
+E:\PhoneApp3\PhoneApp3\obj\Debug\XapCacheFile.xml
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.dll
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\App.g.cs
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\MainPage.g.cs
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.pdb
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\XapCacheFile.xml
+E:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csprojResolveAssemblyReference.cache
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.dll
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Omat projektit\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csprojResolveAssemblyReference.cache
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\App.g.cs
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\MainPage.g.cs
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.pdb
+F:\Omat projektit\PhoneApp3\PhoneApp3\obj\Debug\XapCacheFile.xml
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.dll
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csprojResolveAssemblyReference.cache
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\App.g.cs
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\MainPage.g.cs
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.pdb
+C:\Users\olliketola\Desktop\PhoneApp3\PhoneApp3\obj\Debug\XapCacheFile.xml
