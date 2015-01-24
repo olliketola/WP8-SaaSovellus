@@ -83,26 +83,20 @@ namespace PhoneApp3
             };
             query.QueryAsync();
 
-         
-
         }
 
         //Sää Tällä hetkellä
         public async Task HaeData()
         {
-         
-
-
+        
             var client = new WebClient();
             client.DownloadStringCompleted += (s, e) =>
             {
                
-
                 if (e.Error == null)
                 {
                     
                     KasitteleData(e.Result.ToString());
-                  
                   
                 }
             };
@@ -136,7 +130,6 @@ namespace PhoneApp3
         //Viikon säätiedot
         public async Task HaeData2()
         {
-            
 
             string data = "";
             var client = new WebClient();
@@ -208,8 +201,8 @@ namespace PhoneApp3
                 string anousu_muunnettu = muunna.MuunnaTunnit(anousu);
                 string alasku_muunnettu = muunna.MuunnaTunnit(alasku);
 
-                double num;
-                string lt = "";
+               double num;
+               string lt = "";
                var  style = NumberStyles.Float | NumberStyles.AllowThousands;
                var  culture = CultureInfo.InvariantCulture;
                 
@@ -223,8 +216,6 @@ namespace PhoneApp3
                 }else{
                     lt = "yolo";
                 }
-
-
 
                     kuvadata = new Uri("http://openweathermap.org/img/w/" + ikoni + ".png", UriKind.Absolute);
                     BitmapImage kuva = new BitmapImage(kuvadata);
@@ -294,6 +285,7 @@ namespace PhoneApp3
         //    PinnedTile.Update(UpdatedTileData);
         //}
 
+        //Hae tiedot valintu kunnan mukaan
         private void Button_Click1(object sender, RoutedEventArgs e)
         {
 
